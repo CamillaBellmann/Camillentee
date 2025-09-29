@@ -3,3 +3,4 @@
 export(milli_quarto)
 export(millis_mode)
 export(millis_theme)
+export(millis_unload)
