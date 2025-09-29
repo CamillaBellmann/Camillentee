@@ -26,5 +26,3 @@ millis_unload <- function() {
   
   invisible(to_unload)
 }
-
-unload_all_packages()
